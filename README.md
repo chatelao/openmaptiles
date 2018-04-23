@@ -1,4 +1,4 @@
-## OpenMapTiles [![Build Status](https://travis-ci.org/chatelao/openmaptiles.svg?branch=master)](https://travis-ci.org/openmaptiles/openmaptiles)
+## OpenMapTiles [![Build Status](https://travis-ci.org/chatelao/openmaptiles.svg?branch=master)](https://travis-ci.org/chatelao/openmaptiles)
 
 OpenMapTiles is an extensible and open vector tile schema for a OpenStreetMap basemap. It is used to generate vector tiles for [openmaptiles.org](http://openmaptiles.org/) and [openmaptiles.com](http://openmaptiles.com/).
 
